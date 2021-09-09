@@ -1,5 +1,5 @@
 export default {
-    url: 'http://localhost:1337',
+    url: 'https://devx3-strapi-landing-pages.herokuapp.com',
     siteName: 'DevX3 Website',
     defaultSlug: 'landing-page',
 };

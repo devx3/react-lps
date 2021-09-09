@@ -74,5 +74,8 @@
             "!<rootDir>/**/stories.{js,jsx,ts,tsx}",
             "!<rootDir>/node_modules/"
         ]
+    },
+    "resolutions": {
+        "babel-loader": "8.1.0"
     }
 }
